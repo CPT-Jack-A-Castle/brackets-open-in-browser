@@ -50,6 +50,8 @@ define(function (require, exports, module) {
                     titleRegister = "Abrir no Navegador";
                 } else if (/hr/gi.test(l)) {
                     titleRegister = "Otvori u web pregledniku";
+                } else if (/de/gi.test(l)) {
+                    titleRegister = "Im Browser öffnen";
                 } else {
                     titleRegister = "Open in Browser";
                 }
