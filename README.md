@@ -4,6 +4,8 @@
 button in toolbar.
 
 ### Change History
+* 08/24/2015
+   * added languaje > "de"
 * 08/20/2015
    * fix bug > blank page, brackets crashing (tnk! [gaviteros](https://github.com/gaviteros))
 * 05/23/2015
@@ -33,6 +35,7 @@ button in toolbar.
 #### For support & issues
 Please post your issues, feature changes/requests of this extension using [github](https://github.com/DH3ALEJANDRO/brackets-open-in-browser/issues). I will try to improve this extension.
 
+* thanks to [tom2320x](https://github.com/tom2320x) by the German translation.
 * thanks to [diomed](https://github.com/diomed) by the Croatian translation.
 * thanks to [carlosgodri](https://github.com/carlosgodri) by the Portuguese translation.
 * thanks to [Denisov21](https://github.com/Denisov21) by the Italian translation.
