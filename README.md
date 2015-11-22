@@ -4,6 +4,9 @@
 button in toolbar.
 
 ### Change History
+* 11/22/2015
+   * new features!
+   * drag and drop currently path
 * 08/24/2015
    * added languaje > "de"
 * 08/20/2015
